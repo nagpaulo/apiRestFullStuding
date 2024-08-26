@@ -11,7 +11,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<swagger.ui>2.9.2</swagger.ui>
+		<swagger.ui>2.10.0</swagger.ui>
 	</properties>
 
 	<parent>
